@@ -1,0 +1,16 @@
+[
+  {
+    "id": "4",
+    "name": "laptop",
+    "price": "2000$",
+    "amount": 100,
+    "desc": "dell fake"
+  },
+  {
+    "id": "3",
+    "name": "laptop",
+    "price": "2000$",
+    "amount": 100,
+    "desc": "dell fake"
+  }
+]
